@@ -1,5 +1,4 @@
 # 🏥 Touch-Based Device Control System for Bedridden Patients
-    ![Block Diagram](Block%20diagram.png)
 
 # 📖 Project Overview
 The Touch-Based Device Control System for Bedridden Patients is an embedded systems project developed to improve the quality of life for patients who have limited mobility due to illness, injury, or age. The system enables users to operate electrical appliances through a simple and secure touch-based interface, reducing their dependence on caregivers for routine tasks.
