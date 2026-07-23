@@ -213,7 +213,7 @@ Varshitha Vakkanthula
 
 Embedded Systems Enthusiast
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Varshitha-Vakkanthula
 
 ⭐ If you found this project useful,
 please ⭐star this repository and share it with others.
